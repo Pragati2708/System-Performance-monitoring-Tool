@@ -1,6 +1,7 @@
 #!/bin/bash
 # Date-27/12/2025
 # Maintainer-Pragati
+#
 # Description- This script will automate the backup of files and folders to a specified location.
 echo "This script will automate the backup of files and folders to a specified location."
 path=$1
